@@ -4,7 +4,7 @@
     "slug": "octoprint",
     "description": "Octoprint add-on for Hass.io",
     "arch": [],
-    "url": "https://github.com/fredrikbaberg/hassio-addons",
+    "url": "https://github.com/GrtDlks/hassio-addons",
     "startup": "application",
     "boot": "manual",
     "ports": {
@@ -15,5 +15,5 @@
     "schema": {},
     "webui": "http://[HOST]:[PORT:5000]",
     "auto_uart": true,
-    "image": "fredrikbaberg/octoprint-{arch}-image"
+    "image": "GrtDlks/octoprint-{arch}-image"
 }
